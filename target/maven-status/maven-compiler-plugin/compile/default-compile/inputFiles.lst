@@ -1,0 +1,13 @@
+C:\Users\sar\Downloads\selenium-java-lean-test-architecture-main\selenium-java-amazon-test\src\main\java\com\amazon\enums\WaitStrategy.java
+C:\Users\sar\Downloads\selenium-java-lean-test-architecture-main\selenium-java-amazon-test\src\main\java\com\amazon\config\IConfiguration.java
+C:\Users\sar\Downloads\selenium-java-lean-test-architecture-main\selenium-java-amazon-test\src\main\java\com\amazon\report\AllureManager.java
+C:\Users\sar\Downloads\selenium-java-lean-test-architecture-main\selenium-java-amazon-test\src\main\java\com\amazon\data\constants\BrowserData.java
+C:\Users\sar\Downloads\selenium-java-lean-test-architecture-main\selenium-java-amazon-test\src\main\java\com\amazon\driver\BrowserFactory.java
+C:\Users\sar\Downloads\selenium-java-lean-test-architecture-main\selenium-java-amazon-test\src\main\java\com\amazon\exceptions\HeadlessNotSupportedException.java
+C:\Users\sar\Downloads\selenium-java-lean-test-architecture-main\selenium-java-amazon-test\src\main\java\com\amazon\page\AbstractPageObject.java
+C:\Users\sar\Downloads\selenium-java-lean-test-architecture-main\selenium-java-amazon-test\src\main\java\com\amazon\config\ConfigManager.java
+C:\Users\sar\Downloads\selenium-java-lean-test-architecture-main\selenium-java-amazon-test\src\main\java\com\amazon\driver\DriverManager.java
+C:\Users\sar\Downloads\selenium-java-lean-test-architecture-main\selenium-java-amazon-test\src\main\java\com\amazon\waits\ExplicitWaitFactory.java
+C:\Users\sar\Downloads\selenium-java-lean-test-architecture-main\selenium-java-amazon-test\src\main\java\com\amazon\driver\TargetFactory.java
+C:\Users\sar\Downloads\selenium-java-lean-test-architecture-main\selenium-java-amazon-test\src\main\java\com\amazon\page\shopping\ItemsListingPage.java
+C:\Users\sar\Downloads\selenium-java-lean-test-architecture-main\selenium-java-amazon-test\src\main\java\com\amazon\page\shopping\common\NavigationMenuPage.java

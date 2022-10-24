@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite thread-count="99" parallel="tests" name="Failed suite [AmazonTest]" guice-stage="DEVELOPMENT" verbose="0">
+  <test thread-count="99" parallel="tests" name="Chrome execution(failed)" verbose="0">
+    <parameter name="browser" value="chrome"/>
+    <classes>
+      <class name="com.amazon.test.AmazonWebTest">
+        <methods>
+          <include name="postCondition"/>
+          <include name="TestItemAboutSection" invocation-numbers="0"/>
+          <include name="preCondition"/>
+          <include name="beforeSuite"/>
+        </methods>
+      </class> <!-- com.amazon.test.AmazonWebTest -->
+    </classes>
+  </test> <!-- Chrome execution(failed) -->
+</suite> <!-- Failed suite [AmazonTest] -->
